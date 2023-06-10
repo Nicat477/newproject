@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQesaWfmiczE0vrYakAvRPIow9yCWW2rhdEkhLXFFS3GQ&s");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Raleway", sans-serif;
+    position: relative;
+    
+
+}
+.container {
+    
+   text-align: center;
+    
+    color: white; /* text color */
+    font-size: 28px; /* adjust font size as needed */
+}
+
+.pw{
+    color:aliceblue;
+    font-size: 16px;
+    position: absolute;
+    bottom: 15px; /* Adjust the bottom value as needed */
+    left: 25px; /* Adjust the left value as needed */
+}
+.tl{
+    color:aliceblue;
+    
+}
+.second{
+    font-size: 18px;
+}
+.line{
+    height:0;
+    width:190px;
+}
+.logo{
+    color:aliceblue;
+    font-size: 25px;
+    position: absolute;
+    top: 15px; /* Adjust the bottom value as needed */
+    left: 26px; /* Adjust the left value as needed */
+}
